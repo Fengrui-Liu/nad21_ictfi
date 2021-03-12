@@ -1,2 +1,2 @@
 # nad21_ictfi
-Best score: 0.6027936002
+Best score: 0.6213203863
